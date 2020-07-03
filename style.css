@@ -1,0 +1,163 @@
+h1{font-size:40px ;}
+h2{font-size: 30px;}
+p{
+color: dimgray;
+
+}
+
+body{font-family: 'Poppins', sans-serif;
+margin: 0;
+
+}
+
+.orange-highlight{
+color: orange;
+}
+
+.common{
+
+    float: left;
+
+
+}
+.common img{
+    width: 100%;
+}
+
+.div1{
+width:40% ;
+margin-left: 7%;
+padding-left: 2%;
+}
+.div2{width: 30%;
+   margin-left: 9%;
+    padding-left: 4%;
+    margin-top: 3%
+    
+}
+
+.top-banner{
+background-image: url(images/top-banner.png);
+background-repeat: no-repeat;
+}
+
+section{
+    height: 75%;
+    /*border: 2px solid black;*/
+}
+
+.link-button{
+    border-radius: 10px;
+    font-weight: 700;
+   text-decoration: none;
+   background-image: linear-gradient(red,orange,yellow);    
+   color: cornsilk;
+   font-size: 20px;
+   padding:9px
+}
+
+.div3{
+    margin-bottom: 2%;
+    width: 30%;
+    margin-left: 5%;
+     padding-left: 3%;
+     margin-top: 4% 
+    
+ }
+ .div3 img{
+width: 100%;
+
+ }
+/*div{border: 2px solid red;}*/
+ .section-margin{margin-top: 5%; }
+ .div4{
+    width:30% ;
+    margin-left: 8%;
+    padding-left: 2%;
+    margin-top:6%;
+ }
+
+
+ .link-button2{
+    border-radius: 10px;
+    font-weight: 700;
+   text-decoration: none;
+   background-image: linear-gradient(rgb(247, 40, 74),orange,yellow);    
+   color: cornsilk;
+   font-size: 20px;
+   padding:9px
+}
+.bottom-banner{
+    background-image: url(images/dream-bg.png);
+    background-repeat:no-repeat;   
+    background-position: right;
+}
+  
+.div5{
+
+    width:35% ;
+    margin-left: 7%;
+    padding-left: 2%;
+    margin-top:1% ;
+    background-color: white;
+
+
+}
+
+.div6{
+
+    width:35% ;
+margin-left: 7%;
+padding-left: 2%;
+margin-top:1%;
+
+}
+
+.box-shadow{
+
+    box-shadow:20px 20px 40px gray;
+
+}
+
+.last-banner{
+
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+#full-stack-side-border{
+    
+    border-left:7px solid ;
+    border-image: linear-gradient(180deg,tomato,yellow);
+    border-image-slice:1 ;
+
+}
+
+#junior-side-border{
+
+    
+    border-left:7px solid;
+    border-image: linear-gradient(180deg,blue,cyan);
+    border-image-slice:1 ;
+    
+}
+
+#experiences{
+    color: blue;
+
+}
+
+footer p{
+
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
